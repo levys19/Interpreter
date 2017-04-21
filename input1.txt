@@ -1,2 +1,23 @@
+push 1
+push 2
+push 3
 fun pom boob
+push 4
+push 5
+push 6
+fun nig boob
+push 7
+push 8
+push 9
+funEnd
+push 14
+push nig
+call
+funEnd
+push 10
+push 11
+push pom
+call
+push 12
+push 13
 quit

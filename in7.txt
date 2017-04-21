@@ -1,8 +1,0 @@
-push num1
-push 8
-bind
-push num2
-push 9
-bind
-push num3
-quit
