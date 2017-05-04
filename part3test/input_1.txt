@@ -4,6 +4,7 @@ push b
 mul
 return
 funEnd
+
 fun expr2 a
 push c
 push 5
@@ -15,11 +16,11 @@ push c
 mul
 return
 funEnd
+
 push 7
 push expr1
 call
 push 2
 push expr2
 call
-sub
 quit

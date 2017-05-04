@@ -1,0 +1,13 @@
+inOutFun chicken shit
+push shit
+return
+funEnd
+push shit
+push 1
+bind
+push shit
+push chicken
+call
+push shit
+push shit
+add

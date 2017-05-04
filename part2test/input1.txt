@@ -1,0 +1,11 @@
+push 1
+push 2
+fun chicken shit
+push shit
+return
+funEnd
+push 3
+push chicken
+call
+push 5
+push 6
